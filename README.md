@@ -14,7 +14,6 @@ This repository contains a Jupyter Notebook (`Practical_Application_III.ipynb`) 
 6. [Key Results](#key-results)
 7. [Next Steps](#next-steps)
 8. [Requirements](#requirements)
-9. [License](#license)
 
 ---
 
@@ -96,6 +95,7 @@ The notebook guides you through:
 | SVM (RBF)           | 0.90           | 0.898          | 231          |
 
 **Best Performer:** Decision Tree achieved a high test accuracy (0.90) with the lowest training time. SVC has the highest training time.
+
 ---
 
 ## Next Steps
@@ -123,8 +123,3 @@ pip install pandas numpy scikit-learn matplotlib jupyter
 ```
 
 ---
-
-## License
-
-This project is licensed under the MIT License. Feel free to use and adapt for your own research or production purposes.
-
